@@ -3,11 +3,11 @@
 
 As required by the https://www.eclipse.org/legal/tck.php[Eclipse Foundation Technology Compatibility Kit License], following is a summary of the TCK results for releases of MicroProfile Telemetry 2.1
 
-== Open Liberty 25.0.0.7-beta - MicroProfile Telemetry 2.1 Certification Summary (Java 21)
+== Open Liberty 25.0.0.7-beta-cl250620250508-1902 - MicroProfile Telemetry 2.1 Certification Summary (Java 21)
 
 * Product Name, Version and download URL (if applicable):
 +
-https://public.dhe.ibm.com/ibmdl/export/pub/software/openliberty/runtime/release/25.0.0.7-beta/openliberty-25.0.0.7-beta.zip[Open Liberty 25.0.0.7-beta]
+https://public.dhe.ibm.com/ibmdl/export/pub/software/openliberty/runtime/tck/2025-05-08_1902/openliberty-25.0.0.7-beta-cl250620250508-1902.zip[Open Liberty 25.0.0.7-beta-cl250620250508-1902]
 
 * Specification Name, Version and download URL:
 +

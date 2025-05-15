@@ -3,11 +3,11 @@
 
 As required by the https://www.eclipse.org/legal/tck.php[Eclipse Foundation Technology Compatibility Kit License], following is a summary of the TCK results for releases of MicroProfile Rest Client 4.0
 
-== Open Liberty 25.0.0.7-beta - MicroProfile Rest Client 4.0 Certification Summary (Java 17)
+== Open Liberty 25.0.0.7-beta-cl250620250508-1902 - MicroProfile Rest Client 4.0 Certification Summary (Java 17)
 
 * Product Name, Version and download URL (if applicable):
 +
-https://public.dhe.ibm.com/ibmdl/export/pub/software/openliberty/runtime/release/25.0.0.7-beta/openliberty-25.0.0.7-beta.zip[Open Liberty 25.0.0.7-beta]
+https://public.dhe.ibm.com/ibmdl/export/pub/software/openliberty/runtime/tck/2025-05-08_1902/openliberty-25.0.0.7-beta-cl250620250508-1902.zip[Open Liberty 25.0.0.7-beta-cl250620250508-1902]
 
 * Specification Name, Version and download URL:
 +
@@ -23,7 +23,7 @@ SHA-256: `1962efbabdd212d375c33f439d021770d65f3e6c2d5a1c439111190c8d69f49b`
 
 * Public URL of TCK Results Summary:
 +
-xref:25.0.0.7-beta-MicroProfile-Rest-Client-4.0-Java17-TCKResults.adoc[TCK results summary]
+xref:25.0.0.7-beta-cl250620250508-1902-Rest-Client-4.0-Java17-TCKResults.adoc[TCK results summary]
 
 
 * Java runtime used to run the implementation:
