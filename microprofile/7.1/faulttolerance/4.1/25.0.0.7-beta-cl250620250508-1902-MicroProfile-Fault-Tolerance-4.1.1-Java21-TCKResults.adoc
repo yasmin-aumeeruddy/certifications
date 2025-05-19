@@ -23,7 +23,7 @@ SHA-256: `e427713267fa46a7f16fa16c486ff44075f28d315f16e6fc99eee63b656f49a1`
 
 * Public URL of TCK Results Summary:
 +
-xref:25.0.0.7-beta-cl250620250508-1902-Fault-Tolerance-4.1.1-Java21-TCKResults.adoc[TCK results summary]
+xref:25.0.0.7-beta-cl250620250508-1902-MicroProfile-Fault-Tolerance-4.1.1-Java21-TCKResults.adoc[TCK results summary]
 
 
 * Java runtime used to run the implementation:

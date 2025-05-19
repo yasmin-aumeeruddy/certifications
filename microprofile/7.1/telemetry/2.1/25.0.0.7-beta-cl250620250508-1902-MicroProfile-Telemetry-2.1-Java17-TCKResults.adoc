@@ -35,6 +35,11 @@ SHA-1:
 +
 SHA-256: `659aadc7869d62658453ae00f47864e0dd1842e825f6a6e6cfe9ee3e5935347d`
 
+* Public URL of TCK Results Summary:
++
+xref:25.0.0.7-beta-cl250620250508-1902-MicroProfile-Telemetry-2.1-Java17-TCKResults.adoc[TCK results summary]
+
+
 * Java runtime used to run the implementation:
 +
 Java 17: IBM Semeru Runtime Open Edition (17.0.14+7)

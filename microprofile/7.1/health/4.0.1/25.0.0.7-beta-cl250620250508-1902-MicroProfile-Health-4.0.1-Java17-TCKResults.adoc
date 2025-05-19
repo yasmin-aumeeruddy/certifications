@@ -23,7 +23,7 @@ SHA-256: `3877b20e6a47223ef18609c427eeb4195d1ca78f19565ce6d8e71b5f80e3af8f`
 
 * Public URL of TCK Results Summary:
 +
-xref:25.0.0.7-beta-cl250620250508-1902-Health-4.0.1-Java17-TCKResults.adoc[TCK results summary]
+xref:25.0.0.7-beta-cl250620250508-1902-MicroProfile-Health-4.0.1-Java17-TCKResults.adoc[TCK results summary]
 
 
 * Java runtime used to run the implementation:
